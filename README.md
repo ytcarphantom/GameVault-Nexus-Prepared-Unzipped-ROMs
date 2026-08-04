@@ -1,2 +1,26 @@
-# GameVault-Nexus-Prepared-Unzipped-ROMs
+## Browse the collection
+17
+Visit our site here:
+[All Unzipped ROMs Site] (https ://
+sites.google . com/view/
+all-unziped-roms - site/home?
+authuser=0)
+20
+If you're looking for more games
+want to request a title, or need
+help getting started, our site is
+the e place to explore the full
+catalog and guides.
+21
+## Important note
+Downloading unzipped files saves
+time and effort, but please make
+sure your emulator supports the file
+types provided on this site. Some
+systems require the correct BIOS,
+firmware, or KEY files to run
+properly.
+> Play instantly, skip the
+unpacking, and enjoy a smoother
+setup process.# GameVault-Nexus-Prepared-Unzipped-ROMs
 We provide all of our ROMs completely unzipped (.nes, .bin, .iso, etc.) And have BIOS and KEYS and need firmware for the emulator you are using. so you can play them instantly without needing extra software like WinRAR or 7-Zip. If you want to browse our full collection, request new games, or read our guides.
