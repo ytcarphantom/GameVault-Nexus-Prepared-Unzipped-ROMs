@@ -1,11 +1,17 @@
+
+We provide all of our ROMs completely unzipped (.nes, .bin, .iso, etc.) And have BIOS and KEYS and need firmware for the emulator you are using. so you can play them instantly without needing extra software like WinRAR or 7-Zip. If you want to browse our full collection, request new games, or read our guides. Note: Downloading unzipped files saves you time, but make sure your emulator supports the game files from this site.
+
+
+
+
 ## Browse the collection
-17
+
 Visit our site here:
-[All Unzipped ROMs Site] (https ://
-sites.google . com/view/
-all-unziped-roms - site/home?
-authuser=0)
-20
+[All Unzipped ROMs Site] (https://
+sites.google.com/view/all-unziped-roms-site/home?authuser=0)
+
+
+
 If you're looking for more games
 want to request a title, or need
 help getting started, our site is
