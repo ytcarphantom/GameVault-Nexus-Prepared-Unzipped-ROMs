@@ -51,3 +51,7 @@ This update focuses on fixing text errors, improving the user interface, and res
 * **UI Improvements:** Corrected text errors and polished the site interface.
 * **Bug Fixes:** Resolved random stability and gameplay issues.
 * **What's Next:** More games are on the way! Please note that development will take a bit longer since I am a solo developer. Thank you for your patience and support!
+
+
+> [!IMPORTANT]
+> **This is a web-based application.** It runs directly in your browser and does not require any download or installation. There is no standalone mobile or desktop app.
