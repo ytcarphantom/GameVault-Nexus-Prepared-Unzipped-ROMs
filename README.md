@@ -7,8 +7,7 @@ We provide all of our ROMs completely unzipped (.nes, .bin, .iso, etc.) And have
 ## Browse the collection
 
 Visit our site here:
-[All Unzipped ROMs Site] (https://
-sites.google.com/view/all-unziped-roms-site/home?authuser=0)
+[All Unzipped ROMs] https://sites.google.com/view/all-unziped-roms-site/home?authuser=0
 
 
 
