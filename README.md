@@ -31,3 +31,23 @@ properly.
 unpacking, and enjoy a smoother
 setup process.# GameVault-Nexus-Prepared-Unzipped-ROMs
 We provide all of our ROMs completely unzipped (.nes, .bin, .iso, etc.) And have BIOS and KEYS and need firmware for the emulator you are using. so you can play them instantly without needing extra software like WinRAR or 7-Zip. If you want to browse our full collection, request new games, or read our guides.
+
+
+
+
+
+## Overview
+This update focuses on fixing text errors, improving the user interface, and resolving miscellaneous issues with existing games. 
+
+## Changes
+* **UI/UX:** Fixed typos and enhanced overall site user interface.
+* **Games:** Resolved random bugs across multiple games.
+* **Future:** More games are planned for future release.
+
+> [!NOTE]
+> Updates may take some time as this is a solo-developer project. Thank you for your patience!
+
+### 🚀 Updates & Fixes
+* **UI Improvements:** Corrected text errors and polished the site interface.
+* **Bug Fixes:** Resolved random stability and gameplay issues.
+* **What's Next:** More games are on the way! Please note that development will take a bit longer since I am a solo developer. Thank you for your patience and support!
