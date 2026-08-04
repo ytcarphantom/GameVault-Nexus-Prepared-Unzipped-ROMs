@@ -8,6 +8,7 @@ We provide all of our ROMs completely unzipped (.nes, .bin, .iso, etc.) And have
 
 Visit our site here:
 [All Unzipped ROMs] https://sites.google.com/view/all-unziped-roms-site/home?authuser=0
+and can view form the released to download the ROMS HERE: https://github.com/ytcarphantom/GameVault-Nexus-Prepared-Unzipped-ROMs/releases
 
 
 
